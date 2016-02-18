@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/1000ch/node-dwebp-bin.svg?branch=master)](https://travis-ci.org/1000ch/node-dwebp-bin)
 [![NPM version](https://badge.fury.io/js/dwebp-bin.svg)](http://badge.fury.io/js/dwebp-bin)
-[![Dependency Status](https://david-dm.org/Abysim/node-dwebp-bin.svg)](https://david-dm.org/1000ch/node-dwebp-bin)
-[![devDependency Status](https://david-dm.org/Abysim/node-dwebp-bin/dev-status.svg)](https://david-dm.org/1000ch/node-dwebp-bin#info=devDependencies)
+[![Dependency Status](https://david-dm.org/Abysim/node-dwebp-bin.svg)](https://david-dm.org/Abysim/node-dwebp-bin)
+[![devDependency Status](https://david-dm.org/Abysim/node-dwebp-bin/dev-status.svg)](https://david-dm.org/Abysim/node-dwebp-bin#info=devDependencies)
 
 ## Dependencies on Linux
 
