@@ -25,7 +25,7 @@ describe('dwebp()', function () {
       .cmd('node -p "require(\'fs\').chmodSync(\'./configure\', \'755\')"')
       .cmd('./configure && make && mv ./examples/.libs/dwebp ' + path.join(tmp, 'dwebp'));
 
-    builder.build(function (error) {
+    builder.run(function (error) {
       if (error) {
         callback(error);
         return;
