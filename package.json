@@ -29,7 +29,7 @@
       "type": "BSD"
   }],
   "dependencies": {
-    "bin-build": ">=1.0.0",
+    "bin-build": "^2.1.2",
     "bin-wrapper": ">=1.0.0",
     "log-symbols": ">=1.0.0"
   },
